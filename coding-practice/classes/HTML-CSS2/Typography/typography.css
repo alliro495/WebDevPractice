@@ -1,0 +1,16 @@
+p{
+    font-style: italic;
+}
+
+img{
+    height: 20rem;
+}
+
+.recipe{
+    margin: auto;
+    margin-top: 1rem;
+    width: 1140px;
+    padding: 2rem;
+    padding-top: 1rem;
+    border: 2px solid cornflowerblue;
+}

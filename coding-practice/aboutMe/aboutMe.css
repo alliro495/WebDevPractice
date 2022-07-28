@@ -1,0 +1,12 @@
+.aboutMe{
+    margin: 1.5rem;
+    border: 5px dotted cornflowerblue;
+    padding: 1rem;
+    height: 45vw;
+    overflow: scroll;
+}
+
+p{
+    width: 50ch;
+    text-indent: 1.5rem;
+}
